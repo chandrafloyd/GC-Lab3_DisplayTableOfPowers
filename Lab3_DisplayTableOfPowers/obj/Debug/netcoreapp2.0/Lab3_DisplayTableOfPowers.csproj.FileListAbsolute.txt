@@ -1,0 +1,4 @@
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.AssemblyInfo.cs
