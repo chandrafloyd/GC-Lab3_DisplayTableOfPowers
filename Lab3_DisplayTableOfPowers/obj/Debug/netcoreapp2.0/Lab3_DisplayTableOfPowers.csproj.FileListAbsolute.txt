@@ -2,3 +2,10 @@ C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\
 C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.csproj.CoreCompileInputs.cache
 C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.AssemblyInfoInputs.cache
 C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\bin\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.deps.json
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\bin\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\bin\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\bin\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.dll
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\bin\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.pdb
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.dll
+C:\Users\Owner\source\repos\Lab3_DisplayTableOfPowers\Lab3_DisplayTableOfPowers\obj\Debug\netcoreapp2.0\Lab3_DisplayTableOfPowers.pdb
