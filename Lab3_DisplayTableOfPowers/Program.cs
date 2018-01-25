@@ -20,11 +20,14 @@ namespace Lab3_DisplayTableOfPowers
                 Console.WriteLine("Enter an integer: ");
                 int Input = int.Parse(Console.ReadLine());
 
-                for (int i = 0; i <= Input; i++)
-                {
-                    Console.WriteLine("Number" + "  " + "Squared" + "  " + "Cubed");
-                    Console.WriteLine(Input + "          " + SquareIt(Input) + "     " + CubeIt(Input));
-                }
+                Console.WriteLine("Number" + "  " + "Squared" + "  " + "Cubed");
+                Console.WriteLine(Input + "          " + SquareIt(Input) + "     " + CubeIt(Input));
+
+                for (int i = 1; i <= Input; i++)
+                //{
+                //    Console.WriteLine("Number" + "  " + "Squared" + "  " + "Cubed");
+                //    Console.WriteLine(Input + "          " + SquareIt(Input) + "     " + CubeIt(Input));  //look up how to generate a table {t}
+                //}
 
 
                 //REPEAT?
